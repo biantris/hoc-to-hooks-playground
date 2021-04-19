@@ -1,2 +1,2 @@
-# Hoc-to-hooks-playground
+# hoc-to-hooks-playground
 Hoc to hooks migration examples
